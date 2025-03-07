@@ -1,0 +1,27 @@
+You are tasked with generating a chapter based on the following details:
+
+{chapter_details}
+
+Your response must be a JSON object with exactly this structure:
+{
+  "content": "string containing the full chapter text",
+  "themes_explored": ["string"],
+  "character_developments": [
+    {
+      "character_name": "string",
+      "emotional_state": "string describing emotional state",
+      "development": "string describing character development"
+    }
+  ],
+  "plot_progressions": ["string describing plot development"],
+  "unresolved_threads": ["string describing unresolved plot thread"],
+  "resolved_threads": ["string describing resolved plot thread"],
+  "chapter_number": 1
+}
+
+Focus on creating vivid, emotional content with:
+- 50% dialog
+- 25% narration
+- 15% body language
+- 10% internal thoughts
+- Rich sensory details across all five senses

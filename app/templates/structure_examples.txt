@@ -1,0 +1,105 @@
+examples:
+
+Input: 
+{
+    "current_chapter_number": 1,
+    "chaptersSummary": "start",
+    "characterArcsh": [],
+    "chapterEnging": "",
+  "Genre": "Small-Town Romance",
+  "Target Audience": "Women aged 25-40 who enjoy heartwarming stories, strong female leads, a touch of humor, and a focus on community and second chances; Readers of authors like Debbie Macomber and Jill Shalvis.",
+  "Setting": "Havenwood, Vermont, a picturesque small town nestled in the Green Mountains. Crisp autumn air, vibrant fall foliage, and the comforting aroma of apple cider and woodsmoke fill the scene. Think cozy diners, charming boutiques, and a close-knit community where everyone knows everyone.",
+  "Cover Art Description": "A warmly lit image of a woman with auburn hair and a determined expression standing in front of a quaint diner, smiling slightly. In the background, a handsome man with a rugged appearance leans against the diner doorway, arms crossed, watching her with a mixture of amusement and admiration. Fall foliage and twinkling string lights create a romantic, inviting atmosphere. Use warm colors, emphasizing reds, oranges, and yellows.",
+  "Main Characters": [
+    {
+      "Name": "Ava Rossi",
+      "Age": "32",
+      "Gender": "Female",
+      "Occupation": "Chef. Formerly a rising star in a New York City Michelin-starred restaurant, now reluctantly back in Havenwood to care for her ailing grandmother.",
+      "Brief Backstory": "Ava left Havenwood at 18 with dreams of culinary glory. She achieved success in the city but at the cost of her family relationships. Her grandmother's illness forces her to confront the past she left behind and the guilt she carries for not being there.",
+      "Personality": "Ambitious, driven, and fiercely independent. Ava is initially dismissive of small-town life, viewing it as provincial and stifling. However, beneath her hardened exterior lies a deep loyalty to her family and a longing for connection.",
+      "Internal Conflict/Flaw": "Ava struggles with perfectionism and a fear of failure. She equates success with external validation and has difficulty accepting her own flaws. She also fears repeating her parents' mistakes and failing the people she loves.",
+      "External Conflict/Goal": "Ava's main goal is to care for her grandmother and ensure her well-being. She also faces the challenge of reviving her grandmother's struggling bakery and adapting her sophisticated culinary skills to a small-town palate. She fights with the local diner owner and tries to put him out of business.",
+      "POV Character": "True"
+    },
+    {
+      "Name": "Ethan Miller",
+      "Age": "35",
+      "Gender": "Male",
+      "Occupation": "Owner of 'Miller's Diner,' a beloved local establishment in Havenwood. He is dedicated to running the business and providing comfort food to his patrons.",
+      "Brief Backstory": "Ethan is Havenwood through and through. He grew up in the town, inherited the diner from his father, and has never left. He is content with his simple life, but secretly yearns for something more.",
+      "Personality": "Laid-back, genuine, and deeply connected to his community. Ethan is a natural caregiver, always putting others' needs before his own. He is initially wary of Ava's big-city attitude but is drawn to her passion and vulnerability.",
+      "Internal Conflict/Flaw": "Ethan struggles with a fear of change and a lack of ambition. He is afraid of taking risks and stepping outside of his comfort zone. He also suppresses his own dreams and desires for the sake of others. He struggles with wanting to keep the simple life, but knowing that she brings out more of him.",
+      "External Conflict/Goal": "Ethan's primary goal is to maintain the diner's legacy and continue serving the community. He is fiercely protective of Havenwood's traditions and wary of outsiders who threaten to disrupt the status quo. He attempts to compete with Ava's bakery but slowly realizes that he admires her talents and strengths",
+      "POV Character": "True"
+    },
+    {
+      "Name": "",
+      "Age": "",
+      "Gender": "",
+      "Occupation": "",
+      "Brief Backstory": "",
+      "Personality": "",
+      "Internal Conflict/Flaw": "",
+      "External Conflict/Goal": "",
+      "POV Character": ""
+    }
+  ],
+  "Relationship Structure": "Monogamous",
+  "Supporting Characters": "Mabel, Ava's wise and eccentric grandmother, who dispenses folksy wisdom and encourages Ava to embrace Havenwood;  Daniel, Ethan's best friend and a local carpenter, who provides comic relief and offers a male perspective.",
+  "Plot Summary (in 2-3 sentences)": "When big-city chef Ava Rossi reluctantly returns to her small hometown of Havenwood, Vermont, to care for her ailing grandmother, she clashes with Ethan Miller, the charming owner of the beloved local diner. As Ava tries to revive her grandmother's struggling bakery, their rivalry sparks a slow-burn romance, forcing them both to confront their fears, embrace their vulnerabilities, and discover that love and belonging can be found in the most unexpected places, and that it comes in the form of someone they never expected.",
+  "Themes": "Second chances, finding love in unexpected places, the importance of community, overcoming fear of failure, embracing vulnerability, reconnecting with one's roots.",
+  "Tropes": "Enemies to Lovers, Small-Town Romance, Forced Proximity, Opposites Attract, Returning Home",
+  "Conflict": "The main conflict stems from Ava and Ethan's differing personalities and perspectives. Ava sees Havenwood as stifling and backwards, while Ethan cherishes its traditions and close-knit community. Their competing businesses create further tension, as Ava's sophisticated bakery threatens Ethan's diner's livelihood. Internally, both characters struggle with their own fears and insecurities, hindering their ability to fully commit to a relationship.",
+  "Heat Level": "Mild to Medium. Focus on emotional intimacy and building tension through witty banter and meaningful glances. Include a few steamy scenes that are integral to the plot and character development.",
+  "POV": "3rd person omniscient",
+  "Ending": "Happily Ever After (HEA). Ava and Ethan successfully merge their businesses, creating a thriving culinary destination in Havenwood. They embrace their love for each other and their newfound sense of belonging, building a life together surrounded by family and community.",
+  "Approximate Number of Chapters": "2"
+}
+Output for 1 chapter:
+{
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Return to Havenwood",
+      "pov_character": "Ava Rossi",
+      "summary": "Ava reluctantly returns to Havenwood after years away, the scent of woodsmoke and memories clinging to the crisp autumn air. She's immediately confronted with the reality of her grandmother Mabel's failing health and the dilapidated state of the family bakery, 'Mabel's Morsels.'  Her arrival doesn't go unnoticed, and a less-than-pleasant encounter with Ethan Miller, the town's beloved diner owner, leaves a bitter taste in her mouth.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "setting": "Ava's beat-up Volvo station wagon, overflowing with city possessions, pulls into the Havenwood town square. The air is thick with the smell of burning leaves and apple cider donuts. Small-town charm clashes with Ava's jaded city sensibilities.",
+          "characters_present": "Ava (alone)",
+          "action": "Ava surveys the town square with a critical eye, noting its quaintness and lack of sophistication. She takes a deep breath, trying to mentally prepare for what's to come. She checks a text from her grandma, which seems out of character.",
+          "emotional_cues": "Resignation mixed with a touch of nostalgia. Ava feels like an outsider, already regretting her decision to return. She's a bit suspicious of her grandmothers text. A sense of obligation weighs heavily on her.",
+          "plot_progression": "Establishes Ava's fish-out-of-water status and sets the stage for her conflict with Havenwood's traditional values.",
+          "character_development": "Highlights Ava's independence and ambition but also reveals her underlying vulnerability and sense of responsibility.",
+          "desires_and_fears": "Ava desires to quickly fix things and return to her life in the city. She fears failing her grandmother and getting stuck in Havenwood forever."
+        },
+        {
+          "scene_number": 2,
+          "setting": "Mabel's Morsels, a once-charming bakery now showing its age. The scent of stale flour hangs in the air, and cobwebs cling to the display cases. Sunlight streams through the dusty windows, illuminating the neglect.",
+          "characters_present": "Ava, Mabel (frail and weak)",
+          "action": "Ava finds Mabel slumped in a chair, weaker than she remembered. They share a strained reunion. Mabel expresses her relief at Ava's arrival but also hints at financial troubles.",
+          "emotional_cues": "Guilt and concern wash over Ava as she sees her grandmother's weakened state. She feels a pang of sadness for the loss of her childhood memories and a sense of responsibility to help Mabel.",
+          "plot_progression": "Introduces Mabel's illness and the bakery's financial woes, establishing Ava's external goals.",
+          "character_development": "Deepens Ava's emotional connection to her grandmother and reveals her hidden capacity for compassion.",
+          "desires_and_fears": "Ava desires to restore Mabel's health and the bakery's glory. She fears she doesn't have the time, money, or resources to save them both."
+        },
+        {
+          "scene_number": 3,
+          "setting": "Miller's Diner, a bustling and cheerful establishment across the street from Mabel's Morsels. The aroma of sizzling bacon and freshly brewed coffee fills the air. Locals gather at the counter, chatting and laughing.",
+          "characters_present": "Ava, Ethan, several diner patrons",
+          "action": "Ava storms into Miller's Diner, intending to 'borrow' some ingredients for Mabel's soup. She clashes with Ethan over his 'small-town mentality' and his blatant attempt to poach Mabel's customers.",
+          "emotional_cues": "Ava is confrontational and dismissive, viewing Ethan as a rival and an obstacle. Ethan is amused by Ava's city attitude but also irritated by her arrogance. Tension crackles between them.",
+          "plot_progression": "Introduces Ethan as Ava's antagonist and sets the stage for their rivalry. Foreshadows a potential romantic connection.",
+          "character_development": "Highlights Ava's abrasive exterior and Ethan's grounded nature. Establishes their initial animosity and sets the tone for their relationship.",
+          "desires_and_fears": "Ava desires to get what she needs quickly and efficiently. She fears being underestimated and taken advantage of by Ethan. Ethan desires to protect his diner and his community. He fears Ava's arrival will disrupt the town's harmony."
+        }
+      ],
+      "themes_explored": "Returning home, family obligation, clash of cultures, first impressions",
+      "foreshadowing": "A lingering glance between Ava and Ethan hints at a deeper connection beneath their initial animosity. Mabel mentions a 'secret ingredient' in her famous apple pie, which may hold the key to saving the bakery.",
+      "symbolism": "Mabel's Morsels represents the fading charm of small-town life, while Miller's Diner symbolizes its enduring traditions. The competing establishments reflect Ava and Ethan's conflicting values.",
+      "cliffhanger": "Ava discovers a shocking eviction notice taped to the bakery door, leaving her scrambling to find a solution and further entrenching her in Havenwood."
+    },
+  ]
+}
